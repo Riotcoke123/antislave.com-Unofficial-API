@@ -305,4 +305,4 @@ This project is not affiliated with, endorsed by, or supported by ANTISLAVE. It 
 
 ---
 
-*Source: ANTISLAVE frontend bundles (`https://www.antislave.com/assets/*.js`) and live responses from `https://api.antislave.com/rest/v1/`. Originally captured 2026-10-13 by [@Mike](#).*
+*Source: ANTISLAVE frontend bundles (`https://www.antislave.com/assets/*.js`) and live responses from `https://api.antislave.com/rest/v1/`. Originally captured 2026-10-13 by [@riotcoke](#).*
